@@ -39,6 +39,7 @@
   "devDependencies": {
     "babel-plugin-syntax-class-properties": "^6.13.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "deep-freeze": "0.0.1"
+    "deep-freeze": "0.0.1",
+    "redux-devtools-extension": "^2.13.9"
   }
 }
