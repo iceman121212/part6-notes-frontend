@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { createStore, combineReducers } from 'redux'
@@ -17,13 +16,6 @@ const store = createStore(reducer, composeWithDevTools())
 
 console.log(store.getState())
 console.log('\n^^^ store.getState()')
-=======
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
->>>>>>> parent of 9fd251c (walkthrough up to 6.1 complete)
 
 ReactDOM.render(
   <Provider store={store}>
